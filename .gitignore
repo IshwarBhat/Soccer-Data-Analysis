@@ -1,0 +1,3 @@
+# Ignore the sqlite database dump
+# Can be found at https://www.kaggle.com/hugomathien/soccer
+soccer/database.sqlite
